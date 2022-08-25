@@ -1,4 +1,3 @@
-_pycache_/
-.idea/
 venv/
-Record.txt/
+.idea/
+__pycache__/
